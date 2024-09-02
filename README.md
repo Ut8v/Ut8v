@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **khatiwuv@mail.uc.edu**
 
-- 🌐 **https://utshavsbagpack.onrender.com**
+- 🌐 **https://utshavsbagpack.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
