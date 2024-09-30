@@ -1,15 +1,27 @@
 <h2 align="center">Hi 👋, I'm Utshav Khatiwada</h2>
 
-<p align="center">
-  I am currently pursuing a <strong>Bachelor of Science in Information Technology</strong> at the <strong>University of Cincinnati</strong>, with an expected graduation in <strong>2026</strong>. However, depending on the semester workload I decide to take, I could potentially graduate earlier. I have been on the <strong>Dean's List</strong> for <strong>Spring 2023</strong>, <strong>Summer 2023</strong>, and <strong>Spring 2024</strong>, and I maintain a <strong>3.70 GPA</strong> with <strong>90 credits</strong> completed. My coursework has covered a wide range of topics, including <strong>computer programming</strong>, <strong>web development</strong>, <strong>web game development</strong>, <strong>database management</strong>, <strong>web server application development</strong>, and <strong>mobile application development</strong>.
+<p>
+  I am pursuing a <strong>Bachelor of Science in Information Technology</strong> at the 
+  <strong>University of Cincinnati</strong>, expecting to graduate by <strong>2026</strong> 
+  (possibly earlier). I have made the <strong>Dean's List</strong> in <strong>Spring 2023</strong>, 
+  <strong>Summer 2023</strong>, and <strong>Spring 2024</strong>, maintaining a 
+  <strong>3.70 GPA</strong> with <strong>90 credits</strong> completed. My studies include 
+  <strong>programming</strong>, <strong>web development</strong>, <strong>database management</strong>, 
+  and <strong>mobile app development</strong>.
 </p>
 
 <p>
-  I am currently working as a <strong>Software Developer Co-op</strong> at the <strong>University of Cincinnati's Information Technology Solution Center</strong>, where I use technologies like <strong>TypeScript, React, Node.js, PostgreSQL,</strong> and <strong>Docker</strong>. In this role, I develop and maintain <strong>web applications</strong>, redesign <strong>user interfaces</strong> to improve usability and accessibility, and create and modify <strong>Express.js APIs</strong> to ensure seamless integration with the front end. I also write and optimize <strong>PostgreSQL</strong> and <strong>MySQL queries</strong> to meet client requirements. 
+  Currently, I am a <strong>Software Developer Co-op</strong> at UC's 
+  <strong>IT Solutions Center</strong>, working with <strong>TypeScript, React, Node.js, 
+  PostgreSQL</strong>, and <strong>Docker</strong> to build and maintain web applications, 
+  redesign UIs, and create <strong>Express.js APIs</strong>. I also optimize 
+  <strong>PostgreSQL</strong> and <strong>MySQL queries</strong>.
 </p>
 
 <p>
-  Prior to this, I worked as an <strong>Information Services Intern</strong> at <strong>GMi Companies</strong>, where I developed custom functionalities in <strong>Microsoft Dynamics NAV</strong> using <strong>C/AL</strong>. During this internship, I successfully contributed to <strong>production-level projects</strong> and managed tasks both independently and within a team, applying my skills to solve problems and meet deadlines.
+  Previously, I was an <strong>Information Services Intern</strong> at <strong>GMi Companies</strong>, 
+  where I developed custom functions in <strong>Microsoft Dynamics NAV</strong> using 
+  <strong>C/AL</strong> and contributed to <strong>production-level projects</strong>.
 </p>
 
 
