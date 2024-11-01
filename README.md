@@ -2,8 +2,8 @@
 
 <p>
   I am pursuing a <strong>Bachelor of Science in Information Technology</strong> at the 
-  <strong>University of Cincinnati</strong>, expecting to graduate by <strong>2026</strong> 
-  (possibly earlier). I have made the <strong>Dean's List</strong> in <strong>Spring 2023</strong>, 
+  <strong>University of Cincinnati</strong>, expecting to graduate by <strong>fall 2025</strong>.
+  I have made the <strong>Dean's List</strong> in <strong>Spring 2023</strong>, 
   <strong>Summer 2023</strong>, and <strong>Spring 2024</strong>, maintaining a 
   <strong>3.70 GPA</strong> with <strong>90 credits</strong> completed. My studies include 
   <strong>programming</strong>, <strong>web development</strong>, <strong>database management</strong>, 
