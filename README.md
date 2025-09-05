@@ -29,9 +29,7 @@
 ---
 
 <p align="center">
-  🚀 I am currently seeking <strong>part-time software development opportunities for Spring/Summer 2025</strong> 
-  and a <strong>full-time co-op for Fall 2025</strong>.
-</p>
+  🚀 I am currently seeking opportunites in software development. 
 
 
 
