@@ -2,27 +2,37 @@
 
 <p>
   I am pursuing a <strong>Bachelor of Science in Information Technology</strong> at the 
-  <strong>University of Cincinnati</strong>, expecting to graduate by <strong>fall 2025</strong>.
+  <strong>University of Cincinnati</strong>, expecting to graduate in <strong>Spring 2026</strong>.
   I have made the <strong>Dean's List</strong> in <strong>Spring 2023</strong>, 
   <strong>Summer 2023</strong>, and <strong>Spring 2024</strong>, maintaining a 
-  <strong>3.70 GPA</strong> with <strong>90 credits</strong> completed. My studies include 
+  <strong>3.5 GPA</strong> with <strong>105 credits</strong> completed. My studies include 
   <strong>programming</strong>, <strong>web development</strong>, <strong>database management</strong>, 
   and <strong>mobile app development</strong>.
 </p>
 
 <p>
-  Currently, I am a <strong>Software Developer Co-op</strong> at UC's 
-  <strong>IT Solutions Center</strong>, working with <strong>TypeScript, React, Node.js, 
-  PostgreSQL</strong>, and <strong>Docker</strong> to build and maintain web applications, 
-  redesign UIs, and create <strong>Express.js APIs</strong>. I also optimize 
-  <strong>PostgreSQL</strong> and <strong>MySQL queries</strong>.
+  I previously worked as a <strong>Software Developer Co-op</strong> at UC's 
+  <strong>IT Solutions Center</strong>, where I contributed <strong>400+ commits</strong> while developing 
+  new <strong>full-stack features</strong> with <strong>TypeScript, React, Node.js, PostgreSQL</strong>, and 
+  <strong>Docker</strong>. My work included creating <strong>technical documentation</strong>, 
+  helping build an <strong>authentication system that connected three applications</strong>, and 
+  modernizing the codebase by replacing a <strong>deprecated library</strong>. I also redesigned UIs, 
+  created <strong>Express.js APIs</strong>, and optimized <strong>PostgreSQL/MySQL queries</strong>.
 </p>
 
 <p>
-  Previously, I was an <strong>Information Services Intern</strong> at <strong>GMi Companies</strong>, 
+  Earlier, I was an <strong>Information Services Intern</strong> at <strong>GMi Companies</strong>, 
   where I developed custom functions in <strong>Microsoft Dynamics NAV</strong> using 
   <strong>C/AL</strong> and contributed to <strong>production-level projects</strong>.
 </p>
+
+---
+
+<p align="center">
+  🚀 I am currently seeking <strong>part-time software development opportunities for Spring/Summer 2025</strong> 
+  and a <strong>full-time co-op for Fall 2025</strong>.
+</p>
+
 
 
 
